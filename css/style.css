@@ -1,0 +1,34 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #242120;
+	color: #BAB6B1;
+	font-size: 17px;
+	line-height: 1.6em;
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+header {
+	padding: 6em 0 4em;
+}
+.header__wrapper {
+	max-width: 580px;
+	margin: 0 auto;
+}
+header h1 {
+	font-size: 1em;
+	color: #fff;
+	padding: 0;
+	margin: 0;
+	font-weight: 500;
+}
+header h2 {
+	font-size: 1em;
+	padding: 0;
+	margin: 0;
+	font-weight: 400;
+}
+.main__wrapper {
+	max-width: 580px;
+	margin: 0 auto;
+}
